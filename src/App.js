@@ -1,10 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Header from "./componets/Header";
+import Sidebar from "./componets/Sidebar";
 
 function App() {
   return (
     <div className="app">
-    <p>npm start</p>
+      <Header />
+      <div className="app__body">
+        <Sidebar />
+      </div>
     </div>
   );
 }
