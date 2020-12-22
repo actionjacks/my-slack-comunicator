@@ -3,6 +3,7 @@
   background-color: var(--slack-color);
   border-top: 1px solid #49274b;
   max-width: 260px;
+  padding: 13px;
 }
 .sidebar__header {
   display: flex;
