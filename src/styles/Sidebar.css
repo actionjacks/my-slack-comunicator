@@ -16,6 +16,7 @@
   color: #49274b;
   font-size: 18px;
   background-color: white;
+  margin-left: 10px;
   border-radius: 999px;
 }
 .sidebar__info {
@@ -36,6 +37,7 @@
   font-size: 14px;
   margin-top: 1px;
   margin-right: 2px;
+  margin-left: 5px;
   color: green;
 }
 .sidebar > hr {

@@ -40,14 +40,14 @@ const Sidebar = () => {
         </div>
         <CreateIcon />
       </div>
-      <SidebarOption Icon={InsertCommentIcon} title="Threads" />
+      {/* <SidebarOption Icon={InsertCommentIcon} title="Threads" />
       <SidebarOption Icon={InboxIcon} title="Mentions & reactions" />
       <SidebarOption Icon={DraftsIcon} title="Saved Items" />
       <SidebarOption Icon={BookmarkBorderIcon} title="Channel browser" />
       <SidebarOption Icon={PeopleAltIcon} title="People & user groups" />
       <SidebarOption Icon={AppsIcon} title="Apps" />
       <SidebarOption Icon={FileCopyIcon} title="FileBrowser" />
-      <SidebarOption Icon={ExpandLessIcon} title="Show less" />
+      <SidebarOption Icon={ExpandLessIcon} title="Show less" /> */}
       <hr />
       <SidebarOption Icon={ExpandMoreIcon} title="Channels" />
       <hr />
