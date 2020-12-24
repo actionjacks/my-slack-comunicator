@@ -8,14 +8,16 @@
   height: 50px;
   width: 50px;
   object-fit: contain;
+  border-radius: 15px;
 }
 
-.message_info {
-  padding-left: 10px;
+.message__info {
+  padding-left: 15px;
 }
 
 .message__timestamp {
   color: gray;
+  padding-left: 5px;
   font-weight: 300;
   font-size: 13px;
 }
